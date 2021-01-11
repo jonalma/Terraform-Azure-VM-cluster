@@ -11,4 +11,4 @@ Troubleshooting
 Next steps
 
 Reference:
-https://docs.microsoft.com/en-us/azure/developer/terraform/create-vm-cluster-with-infrastructure#prerequisites
+https://docs.microsoft.com/en-us/azure/developer/terraform/create-vm-cluster-with-infrastructure#3-create-a-terraform-execution-plan
